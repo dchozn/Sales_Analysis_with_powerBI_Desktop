@@ -33,7 +33,7 @@ The analysis uses internal sales records from 2019 and 2020, including:
 
 Here is the page of my Power BI Saels dashboard:
 
-![Dashboard Image](https://github.com/dchozn/pic/blob/main/sale_pics.PNG)
+![Dashboard Image](https://github.com/dchozn/Sales_Analysis_with_powerBI_Desktop/blob/main/sale_pics.PNG)
 
 ## Usage
 ### Prerequisites
